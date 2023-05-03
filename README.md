@@ -1,7 +1,7 @@
 # tools
 A collection of random tools for everyday analyses in biodiversity informatics
 
-##GetRedListCategory
+## GetRedListCategory
 This macro allows you to query the IUCN red list and retrieve the red list category for a scientific name in Excel. 
 
 To use this function:
